@@ -8,3 +8,5 @@ This project makes use of:
 
 The Github action `shareforcelegal/documentation-action` handles the building documentation and also deploys 
 it to the gh-pages branch.
+
+The documentation can be viewed here: https://shareforcelegal.github.io/documentation-test-project/
