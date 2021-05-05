@@ -1,0 +1,14 @@
+docs_dir: docs/book
+site_dir: docs/html
+
+nav:
+  - Home: index.md
+  - Introduction: intro.md
+
+site_name: documentation-test-project
+site_description: 'This is a testing project to see how documentation is generated.'
+
+repo_url: 'https://github.com/shareforcelegal/documentation-test-project'
+
+extra:
+  project: Components
