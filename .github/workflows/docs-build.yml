@@ -9,9 +9,6 @@ jobs:
   build-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout latest version
-        uses: actions/checkout@v2
-
       - name: Build Docs
         uses: shareforcelegal/documentation-action@master
         env:
